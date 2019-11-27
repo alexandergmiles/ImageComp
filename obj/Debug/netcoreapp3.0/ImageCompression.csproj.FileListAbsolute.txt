@@ -1,0 +1,17 @@
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/bin/Debug/netcoreapp3.0/ImageCompression
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/bin/Debug/netcoreapp3.0/ImageCompression.deps.json
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/bin/Debug/netcoreapp3.0/ImageCompression.runtimeconfig.json
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/bin/Debug/netcoreapp3.0/ImageCompression.runtimeconfig.dev.json
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/bin/Debug/netcoreapp3.0/ImageCompression.dll
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/bin/Debug/netcoreapp3.0/ImageCompression.pdb
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/bin/Debug/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/bin/Debug/netcoreapp3.0/System.Drawing.Common.dll
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/obj/Debug/netcoreapp3.0/ImageCompression.csprojAssemblyReference.cache
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/obj/Debug/netcoreapp3.0/ImageCompression.AssemblyInfoInputs.cache
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/obj/Debug/netcoreapp3.0/ImageCompression.AssemblyInfo.cs
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/obj/Debug/netcoreapp3.0/ImageCompression.csproj.CopyComplete
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/obj/Debug/netcoreapp3.0/ImageCompression.dll
+/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/obj/Debug/netcoreapp3.0/ImageCompression.pdb

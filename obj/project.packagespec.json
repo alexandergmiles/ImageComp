@@ -1,0 +1,49 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/ImageCompression.csproj",
+    "projectName": "ImageCompression",
+    "projectPath": "/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/ImageCompression.csproj",
+    "outputPath": "/Users/alexandergmiles/Desktop/ImageCompression/ImageCompression/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "System.Drawing.Common": {
+          "target": "Package",
+          "version": "[4.7.0-preview3.19551.4, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
